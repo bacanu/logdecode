@@ -1,0 +1,1 @@
+export var makeNewReader = function() { return new FileReader(); }
